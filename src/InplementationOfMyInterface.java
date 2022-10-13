@@ -1,4 +1,5 @@
 public class InplementationOfMyInterface implements MyInterface, MyInterfaca2{ //można inplementować wiele interfejsów
+
     @Override
     public void method1() {
         System.out.println("abc");

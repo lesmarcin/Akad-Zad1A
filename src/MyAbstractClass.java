@@ -1,5 +1,6 @@
 public abstract class MyAbstractClass {
-    //klasa abstrakcyjna może zawierać to co zwykła klasa oraz metody abstrakcyjne
+
+    //klasa abstrakcyjna może zawierać wszystko to co zwykła klasa oraz metody abstrakcyjne
 
     abstract public void method4(int x);
 

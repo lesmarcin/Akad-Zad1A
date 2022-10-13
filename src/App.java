@@ -10,7 +10,7 @@ public class App {
 
         /*Klasy abstrakcyjne stosuje się jeśli ma się wiele ściśle połączonych
         ze sobą klas, z tymi samymi metodami, polami. Interfejsy stosuje się
-        kiedy nie są ze sobą połączone ale mają robić te same rzeczy*/
+        kiedy nie są ze sobą połączone ale mają robić te same rzeczy, funkconalnosci*/
 
 
     }
